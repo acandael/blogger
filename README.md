@@ -1,25 +1,10 @@
-# README
+#README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Blog application build with Ruby on Rails.
 
-Things you may want to cover:
+The code is taken from the excellent tutorial
+[Blogger2](http://tutorials.jumpstartlab.com/projects/blogger.html#blogger-2)
+from Jumpstart Lab.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# blogger
+It has features like articles, comments, tagging, file uploads (Paperclip) en
+authentication (Sorcery)
